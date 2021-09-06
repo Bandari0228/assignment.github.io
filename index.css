@@ -1,0 +1,206 @@
+
+
+/* .firstpage h{
+    color: brown;
+    border: 2px solid rgb(24, 23, 23); 
+    width: 30%;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    margin-left: 14.5%;
+    padding-left: 50px;
+    font-family:'Caveat', cursive;
+    margin-bottom: 2%;
+    position: sticky; 
+    text-align: center;
+    margin-left: %;
+    
+} */
+
+/* .logo{
+    text-decoration: brown;
+    color: brown;
+    text-align: center;
+    margin-right: 50%;
+} */
+
+/* img{
+    width: 25%;
+    margin-top: 80px;
+    margin-left: 10px;
+    position: sticky;
+
+} */
+
+
+
+/* 
+
+p{
+    color:white;
+    /* border: 2px solid black; */
+    /* width: 25%;
+    font-size: 30px;
+    font-family:  cursive;
+    margin-left: 40px;
+    padding: 2px 0px 0px 0px;
+
+} */
+   
+/* #points{
+    color:white;
+    font-size: 30px;
+    font-family:  cursive;
+    padding-bottom: 20px;
+     */
+/* } */
+
+h1{
+    color: darkblue;
+    float: right;
+    width: 50%;
+    font-size: 30px;
+    /* font-family:'Caveat', cursive ; */
+    margin-top: 40px;
+    margin-right: 20px;
+    padding-top:50px ;
+}
+
+
+#first{
+    color: sienna;
+    float:right ;
+    width: 70%;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-right: 40%;
+
+}
+
+.secondpage img{
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+
+ h2{
+    color: darkblue;
+    float: left;
+
+    width: 50%;
+    font-size: 30px;
+    /* font-family:'Caveat', cursive ; */
+    margin-top: 10%;
+    margin-left: 10%;
+    /* margin-top: 130px; */
+    margin-right: 20px;
+}
+
+
+
+#second{
+    color: sienna;
+    float:left;
+    width: 40%;
+    font-size: 30px;
+    margin-left: 10%;
+    /* margin-top: 10px; */
+    margin-right: 20px;
+    margin-bottom: 100px;
+
+
+}  
+
+.pic4{
+    float: right;
+    width:30%;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 20%;
+
+
+}
+
+
+.thirdpage{
+    font-size: 30px;
+    color: darkorange;
+    float: center;
+    clear: both;
+    /* margin-top: 10%; */
+    /* margin-left: 20%;
+    margin-right:25% ; */
+    /* padding-bottom: 10%; */
+   text-align: center;
+   background-color: lightblue;
+   padding-top:1% ;
+    padding-bottom: 50px;
+    
+
+}
+
+
+
+
+.list{
+    color: indigo;
+    background-color: lightblue;
+    /* margin-top: 30%; */
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+* {
+    box-sizing: border-box;
+    /* margin-top: 10%; */
+
+}
+
+.container {
+    height: 560px;
+    width: 1500px;
+    border: 2px solid purple;
+    margin-top: 1000px;
+    margin-left:5%;
+
+}
+
+.item {
+
+    border: 2px solid grey;
+    margin: 12px 3px;
+    padding: 12px 3px;
+    background-color: lightblue;
+
+}
+
+#teacoffee {
+    float: left;
+    clear: left;
+    width: 35%;
+    height: 97;
+
+}
+
+
+#coffee {
+    float: left;
+    clear: right;
+    width: 33.5%;
+    height: 97%;
+
+}
+
+
+.fourthpage{
+    width: 400%;
+
+}
+
+
+
+
